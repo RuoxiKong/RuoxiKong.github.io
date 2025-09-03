@@ -3,7 +3,7 @@ title: Core Design Philosophy--Learner-Centered Approach Driving Educational Inn
 date: 2025-08-08
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
-categories: [Project, Core Value1]
+categories: [Project, Core Value]
 tags: [Edu Tech]
 author: <author_id>        
 description: Hello there！
