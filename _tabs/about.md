@@ -40,7 +40,8 @@ Here is a brief overview of my professional background and experience.
 **B.S. in Finance** | **University of Miami** | 
 *Miami, US* | *Graduated 2020*
 - **Honors / Awards**: Dean's List, President scholarship
-- **Courses**: A
+- **Courses**:A
+  
 **M.S. in Finance** | **Imperial College London** | 
 *London, UK* | *Graduated 2021*
 - **Courses**: B
