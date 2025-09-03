@@ -1,6 +1,6 @@
 ---
 title: Key Module 3--Phonics Module with Intuitive Perception, Building Foundational Pronunciation
-date: 2025-08-08
+date: 2025-08-04
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
 categories: [Project, Core Module]
