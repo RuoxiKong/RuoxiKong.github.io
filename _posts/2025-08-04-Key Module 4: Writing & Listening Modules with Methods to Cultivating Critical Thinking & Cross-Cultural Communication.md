@@ -3,7 +3,7 @@ title: Key Module 4--Writing & Listening Modules with Methods to Cultivating Cri
 date: 2025-08-04
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
-categories: [Project, Module]
+categories: [Project, Core Module]
 tags: [Edu Tech]
 author: <author_id>        
 description: Hello there！
