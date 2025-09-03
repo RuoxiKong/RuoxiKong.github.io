@@ -3,7 +3,7 @@ title: Key Module 1--Vocabulary, Reading, & Phrase Modules with Algorithm-Driven
 date: 2025-08-08
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
-categories: [Project, Module]
+categories: [Project, Core Module]
 tags: [Edu Tech]
 author: <author_id>        
 description: Hello there！
