@@ -1,4 +1,4 @@
-Of course! Here is the complete template for your about.md page, entirely in English.It's designed to be professional, clear, and easy for visitors to read. Just copy all the code below, paste it into your _tabs/about.md file, and replace the placeholder text in [ ] with your own information.Please copy all the code below: code Markdowndownloadcontent_copyexpand_less    ---
+---
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
