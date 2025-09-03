@@ -1,6 +1,6 @@
 ---
-title: TITLE
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
+title: Building an Equitable and Effective English Self-Learning Ecosystem in China
+date: 2025-08-08
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
 ---
