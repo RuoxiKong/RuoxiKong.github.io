@@ -1,6 +1,6 @@
 ---
 title: Data-Driven Personalized Learning--AI as a Tool, Not a Dependency
-date: 2025-08-08
+date: 2025-08-03
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
 categories: [Project, Core Value]
