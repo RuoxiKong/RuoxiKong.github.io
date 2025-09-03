@@ -1,5 +1,5 @@
 ---
-title: Core Design Philosophy: Learner-Centered Approach Driving Educational Innovation and Equity
+title: Core Design Philosophy:Learner-Centered Approach Driving Educational Innovation & Equity
 date: 2025-08-08
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
