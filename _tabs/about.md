@@ -20,19 +20,14 @@ Here, I share my projects, notes, and some personal values. I hope you find my c
 
 Here is a brief overview of my professional background and experience.
 
-### 💼Current Identity
-
-**Education product designer and developer** 
-
-### 💼EDU Related Experience
-
-**Part time Independent Teacher** | *2019 – 2025*
-- **Taught TOFEL, IELTS, Chinese Gaokao:** provided specialized instructions, guiding students in test preparation and comprehensive skill development."
-
 ### 💼Past Working Experience
 
 **Investment Banking Analyst** | **Worked at several securities companies** | *Shenzhen, China* | *2020 – 2025*
-- **Work on IPOs, SEOs, bonds, and M&A projects:** leading comprehensive legal and industrial due diligence, drafting critical financial and legal documentation, and providing strategic advisory and continuous oversight to numerous public and private companies."
+- **Work on IPOs, SEOs, bonds, and M&A projects:** leading comprehensive legal and industrial due diligence, drafting critical financial and legal documentation, and providing strategic advisory and continuous oversight to numerous public and private companies.
+
+**Part time Independent Teacher** | *2019 – 2025*
+- **Taught TOFEL, IELTS, Chinese Gaokao:** providing specialized instructions, guiding students in test preparation and comprehensive skill development.
+
 
 
 ### 🎓 Education
@@ -40,16 +35,14 @@ Here is a brief overview of my professional background and experience.
 **B.S. in Finance** | **University of Miami** | 
 *Miami, US* | *Graduated 2020*
 - **Honors / Awards**: Dean's List, President scholarship
-- **Courses**:A
   
 **M.S. in Finance** | **Imperial College London** | 
 *London, UK* | *Graduated 2021*
-- **Courses**: B
+
+
 
 ### 🔧 Skills
 
 - **Programming Languages**: Python, JavaScript, Java, C++, SQL, R
-- **Frameworks & Technologies**: React, Vue, Spring Boot, TensorFlow
-- **Tools & Platforms**: Git, Docker, AWS, Jenkins
 - **Languages**: English, Chinese
   
