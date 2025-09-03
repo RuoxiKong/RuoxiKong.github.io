@@ -1,5 +1,5 @@
 ---
-title: Key Module 1--Vocabulary, Reading, & Phrase Modules with Algorithm-Driven Personalized Learning Loop
+title: Key Module 2--Grammar Module with Fully Interactive Guided Discovery, Fostering Metacognition
 date: 2025-08-08
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
