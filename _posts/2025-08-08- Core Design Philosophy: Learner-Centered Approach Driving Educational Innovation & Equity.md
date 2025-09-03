@@ -1,9 +1,9 @@
 ---
-title: Building an Equitable and Effective English Self-Learning Ecosystem in China
+title: Core Design Philosophy: Learner-Centered Approach Driving Educational Innovation & Equity
 date: 2025-08-08
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
-categories: [Project, Overview]
+categories: [Project, Core Value]
 tags: [Edu Tech]
 author: <author_id>        
 description: Hello there！
