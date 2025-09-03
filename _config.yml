@@ -221,3 +221,10 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+#-----------------------------------------------------------------------------
+# Footer
+#-----------------------------------------------------------------------------
+footer:
+  # Show the powered-by Chirpy message
+  powered_by: false
