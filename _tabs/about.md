@@ -26,7 +26,7 @@ Here is a brief overview of my professional background and experience.
 - **Work on IPOs, SEOs, bonds, and M&A projects:** leading comprehensive legal and industrial due diligence, drafting critical financial and legal documentation, and providing strategic advisory and continuous oversight to numerous public and private companies.
 
 **Part time Independent Teacher** | *2019 – 2025*
-- **Taught TOFEL, IELTS, Chinese Gaokao:** providing specialized instructions, guiding students in test preparation and comprehensive skill development.
+- **TOFEL, IELTS, Chinese Gaokao, ALevel etc for 200+ students:** providing specialized instructions, guiding students in test preparation and comprehensive skill development.
 
 
 
