@@ -1,13 +1,23 @@
 ---
-title: Overview--Building an Equitable and Effective English Self-Learning Ecosystem in China
+title: Overview
 date: 2025-08-02
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
 categories: [Project, Overview]
 tags: [Edu Tech]
 author: <author_id>        
-description: Hello there！
+description: Wordinow，an Equitable and Effective English Self-Learning Ecosystem in China
 ---
 <div style="text-align: justify;">
-I designed and developed a comprehensive English learning platform, aimed at providing a personalized, adaptive, and highly localized self-directed learning environment for K12 and higher education students in China. This platform integrates modules for vocabulary acquisition, reading comprehension, phrase learning, grammar construction, writing skill development, listening training, and phonics recognition, forming a holistic language learning ecosystem. It is dedicated not only to systematically improving students' English proficiency but also, at a deeper level, to fostering their self-directed learning abilities, critical thinking, and global perspective, thereby genuinely contributing to educational equity in China.<br><br>The platform currently serves approximately 10,000 active users and continuously accumulates rich learning data, having successfully launched and been validated in a niche market within China. We firmly believe that combining cutting-edge technology (such as proprietary adaptive algorithms and Large Language Models) with profound local educational insights can effectively bridge the existing educational resource gap between urban and rural areas, ensuring that every learner has an equitable starting point and access to high-quality, individually tailored learning experiences. These designs aim to harness the immense potential of data-driven innovation in education.<br><br>In pursuing educational equity, we particularly prioritize technological accessibility: To ensure smooth usage for students in remote areas of China with poor internet connectivity or unstable signals, the platform's design incorporates Redis structure and Local Session Storage for each user. This significantly reduces loading times and guarantees seamless operation even in low-bandwidth environments. Furthermore, I have authored a book and workbook on vocabulary memorization, which are slated for future publication and will be distributed free of charge to children in mountainous regions, representing a multi-faceted approach to promoting universal access to educational resources.
+  
+I’ve always been deeply concerned by a critical problem in China: high-quality educational resources are often out of reach for those who need them most. I saw too many students struggling in a one-size-fits-all system, where essential skills like **self-directed learning and critical thinking** weren't being adequately nurtured.
+
+To turn this conviction into action, I built [**Wordinow**](https://wordinow.com) from the ground up. It's more than just a learning tool; it's a complete ecosystem I've meticulously crafted to cover everything from vocabulary to writing. My core design philosophy is to harness the power of **adaptive algorithms** to create a truly **personalized learning path** for every student—making technology adapt to the learner, not the other way around.
+
+What's been incredibly encouraging is seeing WordiNow grow into a vibrant community of nearly **10,000 active users**. This journey has not only validated the product's value but has given me the chance to use real-world data to better understand the core needs of learners, allowing me to continuously refine and improve the experience.
+
+I firmly believe that thoughtfully designed technology is one of the most powerful forces for bridging the educational divide. It can transcend geographical barriers to bring the best learning opportunities to those who need them most.
+
+The journey with WordiNow is only just beginning. It carries my convictions and represents my commitment to the future of education: **to ensure that every child, regardless of their location, has the chance to see a wider world.**
+
 </div>
