@@ -8,7 +8,7 @@ order: 4
 
 Hello! I'm **Ruoxi Kong**.
 
-Welcome to my personal space. I am a **Edu product designer and developer** quit from IBD, with a passion for **Education Equity and effectiveness of online learning platform**.
+Welcome to my personal space. I am a **EdTech product designer and developer** who transitioned from a career in Investment Banking, driven by a passion for **educational equity and the effectiveness of online learning**.
 
 Here, I share my projects, notes, and some personal values. I hope you find my content helpful and I look forward to connecting with like-minded people!
 
