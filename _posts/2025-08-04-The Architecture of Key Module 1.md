@@ -6,10 +6,9 @@ tags: [TAG]     # TAG names should always be lowercase
 categories: [Wordinow, Key Module]
 tags: [Learning Engineering, Algorithm Design, Adaptive Learning, Corpus Linguistics, CAT, ZPD, Spaced Repetition, NLP, EdTech, Product Deep Dive]
 author: <author_id>        
-description: Vocabulary, Reading, & Phrase Modules — An Algorithm-Driven Personalized Learning Loop
+description: The Vocabulary, Reading, & Phrase Modules — An Algorithm-Driven Personalized Learning Loop
 ---
 <div style="text-align: justify;">
-<h3>Key Module 1: Vocabulary, Reading, & Phrase Modules — An Algorithm-Driven Personalized Learning Loop</h3>
 
 <p>The Vocabulary, Reading, and Phrase modules I designed are central to the platform, with their innovative design deeply integrating advanced academic theories such as <strong>Corpus Linguistics, Computerized Adaptive Testing (CAT), Zone of Proximal Development (ZPD) Theory, Situated Learning Theory, Formative Assessment,</strong> and the <strong>Ebbinghaus Forgetting Curve</strong>, providing robust theoretical and technical support for precise personalized learning.</p>
 
