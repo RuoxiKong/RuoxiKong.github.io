@@ -35,15 +35,16 @@ Here is a brief overview of my professional background and experience.
 **B.S. in Finance** | **University of Miami** | 
 *Miami, US* | *Graduated 2020*
 - **Honors / Awards**: Dean's List, President scholarship
-- **Courses**: 
+- **Experiences**: Served as Student Tutor in UM Tutorial Center for 1.5 yr (CS, Finance, Accounting, Stats, Maths), Note Taker in UM Disability Center for 60 hrs, Peer Mentor in UM Student Center, UM CSSA Vice President, UM ISO Cabinet
   
 **M.S. in Finance** | **Imperial College London** | 
 *London, UK* | *Graduated 2021*
-- **Courses**: 
+- **Projects**: Propsed Acquisition of YXXX by UXXX
 
 
-### 🔧 Skills
+### 🔧 More
 
 - **Programming Languages**: Python, JavaScript, Java, C++, SQL, R
 - **Languages**: English, Chinese
+- **Top Ten List**: Golden Retriever, Huge Cats, Minecraft, Rugby, Sudoku, Minesweeper, Woodworking, Puzzeles, Lego, Travel
   
