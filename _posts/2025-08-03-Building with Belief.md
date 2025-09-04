@@ -3,7 +3,7 @@ title: Building with Belief
 date: 2025-08-03
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
-categories: [Project, Design Philosophy]
+categories: [Wordinow, Design Philosophy]
 tags: [Educational Equity, Personalized Learning, EdTech Ethics, Pedagogy, Cognitive Science, Localization, Responsible Innovation, Learning Science, Founder Story]
 author: <author_id>        
 description: A deep dive into the nine core principles that form the soul of Wordinow, guiding its mission to deliver a truly equitable, personalized, and responsible learning experience for every student.
@@ -22,7 +22,7 @@ description: A deep dive into the nine core principles that form the soul of Wor
 <h4>3. Localization & Innovation</h4>
 <p>The core of my design is to build a learning system for Chinese students that truly fits their cognitive pathways and practical needs. My philosophy on "Localization" first manifests in a critical reflection on pedagogical theories: while <strong>Second Language Acquisition (SLA)</strong> theories are academically robust, they often presume an immersive language environment that is largely absent for Chinese learners. In a context where the mother tongue is overwhelmingly dominant, relying solely on rote memorization or hoping to develop a "feel for the language" through extensive reading is largely incompatible with our national reality.
 <br><br>
-This insight dictates my core product strategy: I must build <strong>a comprehensive and complementary ecosystem that covers everything from vocabulary, phrases, grammar, reading, writing, listening, to speaking</strong>. Within this system, I deeply integrate local pedagogical data to build an adaptive <strong>vocabulary leveling algorithm</strong> as its foundation. Simultaneously, I leverage innovative technologies like <strong>Large Language Models (LLM)</strong> to seamlessly connect these modules, creating an authentic and vivid learning experience.</p>
+This insight dictates my core product strategy: I must build <strong>a comprehensive and complementary ecosystem that covers everything from vocabulary, phrases, grammar, reading, writing, listening, and speaking</strong>. Within this system, I deeply integrate local pedagogical data to build an adaptive <strong>vocabulary leveling algorithm</strong> as its foundation. Simultaneously, I leverage innovative technologies like <strong>Large Language Models (LLM)</strong> to seamlessly connect these modules, creating an authentic and vivid learning experience.</p>
 
 <h4>4. Adaptive & Personalized</h4>
 <p>The platform's core capability is to dynamically adjust learning paths based on each student's real proficiency, progress, and cognitive habits. My design philosophy dictates that the system must be able to accurately "understand" each learner and deliver content that best fits their <strong>"Zone of Proximal Development" (ZPD)</strong>. This means that students are always presented with the next piece of knowledge that will maximize their learning efficiency.</p>
