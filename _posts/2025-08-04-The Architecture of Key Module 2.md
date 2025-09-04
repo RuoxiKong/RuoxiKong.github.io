@@ -9,7 +9,6 @@ author: <author_id>
 description: The Grammar Module — Fostering Metacognition with Fully Interactive Guided Discovery
 ---
 <div style="text-align: justify;">
-<h3>Key Module 2: The Grammar Module — Fostering Metacognition with Fully Interactive Guided Discovery</h3>
 
 <p>The grammar module represents one of the platform's most significant innovations, challenging the passive nature of traditional English grammar instruction in China, and deeply applying <strong>Guided Discovery Learning</strong> and <strong>Embodied Cognition</strong> theories. This grammar module is currently under active development, with a demo version already released to select users.</p>
 
