@@ -12,10 +12,11 @@ description: The Vocabulary, Reading, & Phrase Modules — An Algorithm-Driven P
 
 <p>The Vocabulary, Reading, and Phrase modules I designed are central to the platform, with their innovative design deeply integrating advanced academic theories such as <strong>Corpus Linguistics, Computerized Adaptive Testing (CAT), Zone of Proximal Development (ZPD) Theory, Situated Learning Theory, Formative Assessment,</strong> and the <strong>Ebbinghaus Forgetting Curve</strong>, providing robust theoretical and technical support for precise personalized learning.</p>
 
-![Desktop View](/assets/module1.jpg)
+<p align="center">
+  <img src="{{ '/assets/module1.jpg' | relative_url }}" alt="Key Module 1" width="900">
+</p>
 
-![img-description](/assets/module1.jpg)
-_Key Module 1_
+<p align="center"><em>Key Module 1</em></p>
 
 <h4>1. Localized Lexicon Construction: The First Step Towards Educational Equity</h4>
 <p>I led and completed the construction of a specialized corpus and vocabulary leveling system specifically for Chinese English as a Foreign Language (EFL) learners. This corpus integrates vocabulary from over <strong>50 versions of K12 English textbooks</strong> across China, high-frequency words from national college entrance exams, general reference corpora (BNC, COCA), and the CEFR framework. Building on this, I designed and developed a <strong>proprietary weighted-leveling algorithm</strong> that generates a vocabulary grading system highly matched to Chinese learners' cognitive pathways and examination requirements. The core objective of this initiative is to address the disparity between diverse local curricula across China and the unified national college entrance examination, ensuring that all students begin from an equitable starting point, with fair access to vocabulary resources highly aligned with core exam demands. This represents not only technological innovation but also a practical commitment to educational equity.</p>
