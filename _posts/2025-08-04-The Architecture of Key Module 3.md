@@ -1,5 +1,5 @@
 ---
-title: The Architechture of Key Module 3
+title: The Architecture of Key Module 3
 date: 2025-08-04
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
@@ -9,7 +9,6 @@ author: <author_id>
 description: The Writing & Listening Modules — Cultivating Critical Thinking & Cross-Cultural Communication
 ---
 <div style="text-align: justify;">
-<h3>Key Module 3: The Writing & Listening Modules — Cultivating Critical Thinking & Cross-Cultural Communication</h3>
 
 <p>The Writing and Listening modules are crucial for developing students' higher-order language application skills, critical thinking, and global perspectives. Their design integrates theories such as <strong>Scaffolding, Corpus Linguistics applications,</strong> and the <strong>Integrated Input Hypothesis</strong>:</p>
 
