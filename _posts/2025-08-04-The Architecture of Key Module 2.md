@@ -4,7 +4,7 @@ date: 2025-08-04
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
 categories: [Wordinow, Key Module]
-tags: [Edu Tech]
+tags: [Instructional Design, Gamification, Embodied Cognition, Guided Discovery Learning, Metacognition, Interactive Learning, EdTech, Grammar, Product Deep Dive]
 author: <author_id>   
 description: The Grammar Module — Fostering Metacognition with Fully Interactive Guided Discovery
 ---
