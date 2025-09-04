@@ -6,7 +6,7 @@ tags: [TAG]     # TAG names should always be lowercase
 categories: [Wordinow, Key Module]
 tags: [Edu Tech]
 author: <author_id>   
-description: Grammar Module--Fully Interactive Guided Discovery, Fostering Metacognition
+description: The Grammar Module — Fostering Metacognition with Fully Interactive Guided Discovery
 ---
 <div style="text-align: justify;">
 <h3>Key Module 2: The Grammar Module — Fostering Metacognition with Fully Interactive Guided Discovery</h3>
