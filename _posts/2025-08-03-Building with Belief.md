@@ -11,7 +11,7 @@ description: A deep dive into the nine core principles that form the soul of Wor
 <div style="text-align: justify;">
 <h3>My Design Philosophy: The Nine Core Principles Guiding WordiNow</h3>
 
-![Desktop View](/assets/9corep.jpg){: .normal }
+![Desktop View](/assets/9corep.jpg)
 
 <p>My entire design process is deeply rooted in a set of core principles. These are not just abstract ideas; they are the fundamental guidelines that direct the development and iteration of every module, and they represent my solemn commitment to education, technology, and every single learner.</p>
 
