@@ -1,12 +1,12 @@
 ---
-title: Overview
+title: A Wider World for Every Learner
 date: 2025-08-02
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
-categories: [Project, Overview]
-tags: [Edu Tech]
+categories: [Wordinow, Overview]
+tags: [Learning Technology, EdTech, Personalized Learning, Adaptive Learning, Educational Equity, Founder Story, Data-Driven Education, Startup]
 author: <author_id>        
-description: Wordinow，an Equitable and Effective English Self-Learning Ecosystem in China
+description: The journey of building Wordinow, a personalized learning platform designed to bridge the educational divide and bring quality education to all.
 ---
 <div style="text-align: justify;">
   
@@ -18,6 +18,6 @@ What's been incredibly encouraging is seeing WordiNow grow into a vibrant commun
 
 I firmly believe that thoughtfully designed technology is one of the most powerful forces for bridging the educational divide. It can transcend geographical barriers to bring the best learning opportunities to those who need them most.
 
-The journey with WordiNow is only just beginning. It carries my convictions and represents my commitment to the future of education: **to ensure that every child, regardless of their location, has the chance to see a wider world.**
+The journey with Wordinow is only just beginning. It carries my convictions and represents my commitment to the future of education: **to ensure that every child, regardless of their location, has the chance to see a wider world.**
 
 </div>
