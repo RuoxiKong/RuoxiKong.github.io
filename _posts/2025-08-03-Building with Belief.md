@@ -11,9 +11,9 @@ description: A deep dive into the nine core principles that form the soul of Wor
 <div style="text-align: justify;">
 <h3>My Design Philosophy: The Nine Core Principles Guiding WordiNow</h3>
 
-![Desktop View](/assets/9corep.jpg)
-
 <p>My entire design process is deeply rooted in a set of core principles. These are not just abstract ideas; they are the fundamental guidelines that direct the development and iteration of every module, and they represent my solemn commitment to education, technology, and every single learner.</p>
+
+![Desktop View](/assets/9corep.jpg)
 
 <h4>1. Educational Equity</h4>
 <p>This is the fundamental motivation for this project. I firmly believe that technology can bridge the significant educational resource gap between urban and rural areas in China. Therefore, equity is not a slogan but a concrete engineering decision. For instance, considering that students in remote areas may face poor internet connectivity, I specifically designed the architecture with a <strong>Redis structure and Local Session Storage</strong>. This ensures fewer assets are loaded after the initial visit, significantly reducing response times and enabling a smoother experience even in low-bandwidth environments.</p>
