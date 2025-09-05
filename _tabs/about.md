@@ -35,7 +35,7 @@ Here is a brief overview of my professional background and experience.
 **B.S. in Finance** | **University of Miami** | 
 *Miami, US* | *Graduated 2020*
 - **Honors / Awards**: Dean's List, President scholarship
-- **Experiences**: Served as Student Tutor in UM Tutorial Center for 1.5 yr (CS, Finance, Accounting, Stats, Maths), Note Taker in UM Disability Center for 60 hrs, Peer Mentor in UM Student Center, UM CSSA Vice President, UM ISO Cabinet
+- **Experiences**: Served as Student Tutor in UM Tutorial Center for 1 yr (CS, Finance, Accounting, Stats, Maths), Note Taker in UM Disability Center for 60 hrs, Peer Mentor in UM Student Center, UM CSSA Vice President, UM ISO Cabinet
   
 **M.S. in Finance** | **Imperial College London** | 
 *London, UK* | *Graduated 2021*
