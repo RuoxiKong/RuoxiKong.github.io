@@ -20,7 +20,9 @@ description: The journey of building Wordinow, a personalized learning platform 
     <li><strong>Sentence Patterns:</strong> Builds a foundational understanding of grammar and structure for effective and accurate communication.</li>
     <li><strong>Listening:</strong> Develops auditory comprehension with level-appropriate audio materials synced to the user's learning path.</li>
     <li><strong>Graded Reading:</strong> Integrates all learned skills, allowing users to apply their knowledge in meaningful, contextualized texts.</li>
+  <li><strong>Grammar:</strong> Makes abstract rules intuitive and memorable through interactive microworlds based on Embodied Cognition.</li>
 </ul>
+
 
 <p>My core design philosophy is to harness the power of adaptive algorithms to create a truly personalized learning path for every student—making technology adapt to the learner, not the other way around.</p>
 
