@@ -12,7 +12,7 @@ description: The journey of building Wordinow, a personalized learning platform 
   
 <p>I’ve always been deeply concerned by a critical problem in China: high-quality educational resources are often out of reach for those who need them most. I saw too many students struggling in a one-size-fits-all system, where essential skills like self-directed learning and critical thinking weren't being adequately nurtured.</p>
 
-<p>To turn this conviction into action, I built Wordinow from the ground up. It's more than just a learning tool; it's a complete ecosystem I've meticulously crafted. <strong>My approach is that a truly effective product is not built by simply stacking features, but is an integrated platform born from a deep understanding of educational psychology and the local learning environment.</strong> To achieve this, the platform guides learners through a comprehensive set of integrated modules:</p>
+<p>To turn this conviction into action, I built <strong>Wordinow</strong>(https://wordinow.com) from the ground up. It's more than just a learning tool; it's a complete ecosystem I've meticulously crafted. <strong>My approach is that a truly effective product is not built by simply stacking features, but is an integrated platform born from a deep understanding of educational psychology and the local learning environment.</strong> To achieve this, the platform guides learners through a comprehensive set of integrated modules:</p>
 
 <ul>
     <li><strong>Vocabulary:</strong> Serves as the adaptive core of the platform, personalizing word acquisition through a proprietary engine.</li>
