@@ -9,7 +9,7 @@ author: <author_id>
 description: A deep dive into the nine core principles that form the soul of Wordinow, guiding its mission to deliver a truly equitable, personalized, and responsible learning experience for every student.
 ---
 <div style="text-align: justify;">
-<h3>My Design Philosophy: The Nine Core Principles Guiding WordiNow</h3>
+<h3>My Design Philosophy: The Nine Core Principles Guiding Wordinow</h3>
 
 <p>My entire design process is deeply rooted in a set of core principles. These are not just abstract ideas; they are the fundamental guidelines that direct the development and iteration of every module, and they represent my solemn commitment to education, technology, and every single learner.</p>
 
@@ -20,15 +20,22 @@ description: A deep dive into the nine core principles that form the soul of Wor
 <p align="center"><em>9 Core Principles</em></p>
 
 <h4>1. Educational Equity</h4>
-<p>This is the fundamental motivation for this project. I firmly believe that technology can bridge the significant educational resource gap between urban and rural areas in China. Therefore, equity is not a slogan but a concrete engineering decision. For instance, considering that students in remote areas may face poor internet connectivity, I specifically designed the architecture with <strong>Redis structure, Local Session Storage, and CDN</strong>. This ensures fewer assets are loaded after the initial visit, significantly reducing response times and enabling a smoother experience even in low-bandwidth environments.</p>
+
+<p>This is the fundamental motivation for this project. I firmly believe that technology can bridge the significant educational resource gap between urban and rural areas in China. To truly bridge this gap, my approach treats equity as a core design principle, moving beyond simply providing access to ensuring the <strong>equitable design of instruction itself</strong>.</p>
+
+<p>This principle informs every decision, from the pedagogical content down to the underlying technical architecture.</p>
+
+<p>On the instructional level, it means building a <strong>localized lexicon</strong> that serves both urban and rural students and creating <strong>instructional strategies</strong> that are effective for users with varying levels of digital literacy.</p>
+
+<p>On the architectural level, it means addressing the very <strong>conditions of learning</strong>. For instance, considering students in remote areas may face poor internet connectivity, I specifically designed the architecture with Redis, Local Session Storage, and a CDN. This technical choice is, at its core, a <strong>pedagogical decision</strong>: to ensure a student’s geographical context does not dictate the quality of their interaction with the instructional content.</p>
 
 <h4>2. Learner-Centered Design</h4>
-<p>I believe that effective learning stems from intrinsic motivation, which requires empowering the learner. My design philosophy is that a student's actions and understanding should be the sole engine driving their learning process. In WordiNow, the learning path is not predetermined; every click and every answer from the student dynamically shapes the subsequent content. By listening and responding, the system hands the "steering wheel" of learning back to the students, allowing them to become the true authors of their educational journey.</p>
+<p>I believe that effective learning stems from intrinsic motivation, which requires empowering the learner. My design philosophy is that a student's actions and understanding should be the sole engine driving their learning process. In Wordinow, the learning path is not predetermined; every click and every answer from the student dynamically shapes the subsequent content. By listening and responding, the system hands the "steering wheel" of learning back to the students, allowing them to become the true authors of their educational journey.</p>
 
 <h4>3. Localization & Innovation</h4>
 <p>The core of my design is to build a learning system for Chinese students that truly fits their cognitive pathways and practical needs. My philosophy on "Localization" first manifests in a critical reflection on pedagogical theories: while <strong>Second Language Acquisition (SLA)</strong> theories are academically robust, they often presume an immersive language environment that is largely absent for Chinese learners. In a context where the mother tongue is overwhelmingly dominant, relying solely on rote memorization or hoping to develop a "feel for the language" through extensive reading is largely incompatible with reality.
 <br><br>
-This insight dictates my core product strategy: I must build <strong>a comprehensive and complementary ecosystem that covers everything from vocabulary, phrases, grammar, reading, writing, listening, to speaking</strong>. Within this system, I deeply integrate local pedagogical data to build an adaptive <strong>vocabulary leveling algorithm</strong> as its foundation. Simultaneously, I leverage innovative technologies like Large Language Models (LLM) to seamlessly connect these modules, creating an authentic and vivid learning experience.</p>
+This insight dictates my core product strategy: I must build <strong>a comprehensive and complementary ecosystem that covers everything: vocabulary, phrases, grammar, reading, writing, and listening</strong>. Within this system, I deeply integrate local pedagogical data to build an adaptive <strong>vocabulary leveling algorithm</strong> as its foundation. Simultaneously, I leverage innovative technologies like Large Language Models (LLM) to seamlessly connect these modules, creating an authentic and vivid learning experience.</p>
 <p>This is especially true for K-12 and university students whose values are still maturing. Giving them unfettered freedom with AI could lead to dangerous dependencies, a decline in critical thinking, or a deeper entrenchment in illusions of learning. Therefore, my core principle for AI application is one of <strong>rigorous governance</strong>. I have deliberately designed my algorithms to prevent both the system's and the student's over-reliance on AI. I have built clear boundaries for AI's authority: it is used as an auxiliary tool for content generation and contextual support, but is <strong>explicitly forbidden from driving the core learning path or providing direct answers.</strong></p>
 
 <h4>4. Adaptive & Personalized</h4>
