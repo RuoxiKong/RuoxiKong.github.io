@@ -21,7 +21,6 @@ description: The journey of building Wordinow, a personalized learning platform 
     <li><strong>Graded Reading:</strong> Integrates all learned skills in meaningful, contextualized texts.</li>
     <li><strong>Writing & Listening:</strong> Cultivates higher-order skills like critical thinking and global awareness.</li>
 </ul>
-<p>This entire ecosystem is powered by a <strong>four-step adaptive learning loop</strong> that I engineered: from CAT-based dynamic assessment and ZPD-driven recommendation, through gamified acquisition for memorization, to final reinforcement via LLM-generated contextual reading. This is how I make technology adapt to the learner, not the other way around.</p>
 
 <p>What's been incredibly encouraging is seeing Wordinow grow into a vibrant community of nearly <strong>10,000 active users</strong>. This journey has not only validated the product's value, but the real-world data from our users has given me profound insights and reinforced a core belief for me:</p>
 
