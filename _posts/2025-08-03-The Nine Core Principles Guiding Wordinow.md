@@ -1,5 +1,5 @@
 ---
-title: Building with Belief
+title: The Nine Core Principles Guiding Wordinow
 date: 2025-08-03
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
@@ -9,7 +9,6 @@ author: <author_id>
 description: A deep dive into the nine core principles that form the soul of Wordinow, guiding its mission to deliver a truly equitable, personalized, and responsible learning experience for every student.
 ---
 <div style="text-align: justify;">
-<h3>My Design Philosophy: The Nine Core Principles Guiding Wordinow</h3>
 
 <p>My entire design process is deeply rooted in a set of core principles. These are not just abstract ideas; they are the fundamental guidelines that direct the development and iteration of every module, and they represent my solemn commitment to education, technology, and every single learner.</p>
 
