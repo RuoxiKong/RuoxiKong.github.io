@@ -34,7 +34,7 @@ description: The journey of building Wordinow, a personalized learning platform 
 </ul>
 <p>The result of this integrated, theory-driven architecture is a platform that has grown into a vibrant community of nearly 10,000 active users. This user base has transformed Wordinow from a product into a powerful <strong>"living laboratory,"</strong> providing the large-scale, longitudinal data necessary for my future work in academic research, product refinement, and iterative development.</p>
 
-<h2>My Future Research Agenda</h2>
+<h2>Future Agenda</h2>
 <p>Thoughtfully designed technology is one of the most powerful forces for bridging the educational divide. But while ensuring equitable access to technology is the necessary foundation, my work has convinced me that the more critical and complex challenge lies in the <strong>equitable design of instruction</strong>. This is the central question that now drives my intellectual curiosity and future research agenda.</p>
 <p>My work with Wordinow is a direct response to this challenge. The entire platform is architected as an ongoing inquiry into three central, interconnected questions, each reflecting one of my core pillars:</p>
 
@@ -45,6 +45,8 @@ description: The journey of building Wordinow, a personalized learning platform 
 </ol>
     
 <p>This commitment to interrogating all three pillars—<strong>Design, Data, and Equity</strong>—informs every decision I make, from building a localized lexicon that respects students' curricular realities to creating instructional strategies for users with varying levels of digital literacy. For me, this synthesis is the true meaning of building a better educational future.</p>
+
+<p>We deeply recognize that 'clicks are not cognition.' Screen interaction data is far from the whole picture of learning. One of my core future research directions is to explore and apply cutting-edge methods like Multimodal Learning Analytics (MMLA). Our goal is to more holistically understand the learner's affective, cognitive, and embodied states, ensuring that our technology serves the whole person.</p>
 
 <p>The journey with Wordinow is only just beginning. It carries my convictions and represents my commitment to the future of education. It has ignited a passion for rigorous, systematic inquiry, and a desire to contribute generalizable knowledge to the field. My goal is to ensure that every child, regardless of their location, has the chance to see a wider world, empowered by learning experiences that are as thoughtful, adaptive, and equitable as they are effective, while at the same time, build a complete learning ecosystem that empowers both learners and frontline educators.</p>
 </div>
