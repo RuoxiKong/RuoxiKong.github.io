@@ -16,7 +16,7 @@ description: The journey of building Wordinow, a personalized learning platform 
 
 <h3>Uncovering the Paradox</h3>
 
-<p>In my teaching, I repeatedly witnessed a paradox: students were mastering <strong style="color: #006400;">test-taking strategies</strong> but struggled with <strong style="color: #006400;">authentic language application</strong>. I also observed that exceptional learners, whether gifted or facing challenges, could not fully thrive or maximize their potential within the prevailing <strong style="color: #006400;">one-size-fits-all educational model</strong>. This wasn't a failure of effort but a <strong style="color: #006400;">systemic flaw</strong>. It became clear that the market urgently needed a more efficient, personalized, and scalable model of instruction—a need that ignited the spark to create Wordinow.</p>
+<p>I repeatedly witnessed a paradox: students were mastering <strong style="color: #006400;">test-taking strategies</strong> but struggled with <strong style="color: #006400;">authentic language application</strong>. I also observed that exceptional learners, whether gifted or facing challenges, could not fully thrive or maximize their potential within the prevailing <strong style="color: #006400;">one-size-fits-all educational model</strong>. This wasn't a failure of effort but a <strong style="color: #006400;">systemic flaw</strong>. It became clear that the market urgently needed a more efficient, personalized, and scalable model of instruction—a need that ignited the spark to create Wordinow.</p>
 
 <h3>The Problem Space: An Analyst's Diagnosis of Key Challenges</h3>
 
