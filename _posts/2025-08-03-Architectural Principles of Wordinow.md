@@ -4,7 +4,7 @@ date: 2025-08-03
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
 categories: [Wordinow, Design Philosophy]
-tags: [Educational Equity, Personalized Learning, EdTech Ethics, Pedagogy, Cognitive Science, Localization, Responsible Innovation, Learning Science, Founder Story]
+tags: [AI in Education, Personalized & Adaptive Learning, Learning Sciences, Educational Equity, Generative AI, Gamification, Localized Corpus Construction, Pedagogical Governance of AI]
 author: <author_id>        
 description: A deep dive into the core principles that form the soul of Wordinow, guiding its mission to deliver a truly equitable, personalized, and responsible learning experience for every student.
 ---
