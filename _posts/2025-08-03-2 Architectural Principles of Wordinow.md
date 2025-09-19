@@ -1,5 +1,5 @@
 ---
-title: Architectural Principles of Wordinow
+title: 2 Architectural Principles of Wordinow
 date: 2025-08-03
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
@@ -36,7 +36,7 @@ description: A deep dive into the core principles that form the soul of Wordinow
 
 <h4>Principle 4: Bolstering Motivation with Extrinsic Drivers</h4>
 
-<p>While fostering intrinsic motivation is key, I recognize the power of well-designed <strong style="color: #006400;">extrinsic motivators</strong> to sustain engagement, especially in long-term learning journeys. The "why" is to provide clear, consistent feedback that acknowledges effort and makes progress tangible, which is crucial for building <strong style="color: #006400;">self-efficacy</strong>. The "how" is through features like <strong style="color: #006400;">daily check-in streaks, leaderboards</strong>, and comprehensive <strong style="color: #006400;">learning analytics reports (学情报告)</strong>. These reports are available to both students and their supervisors, providing actionable insights that serve as a powerful driver for persistence and a tool for informed guidance, creating a supportive ecosystem around the learner.</p>
+<p>While fostering intrinsic motivation is key, I recognize the power of well-designed <strong style="color: #006400;">extrinsic motivators</strong> to sustain engagement, especially in long-term learning journeys. The "why" is to provide clear, consistent feedback that acknowledges effort and makes progress tangible, which is crucial for building <strong style="color: #006400;">self-efficacy</strong>. The "how" is through features like <strong style="color: #006400;">daily check-in streaks, leaderboards</strong>, and comprehensive <strong style="color: #006400;">learning analytics reports</strong>. These reports are available to both students and their supervisors, providing actionable insights that serve as a powerful driver for persistence and a tool for informed guidance, creating a supportive ecosystem around the learner.</p>
 
 <h4>Principle 5: The Usage of AI as a Cognitive Partner</h4>
 
