@@ -1,5 +1,5 @@
 ---
-title: 2 Architectural Principles of Wordinow
+title: Architectural Principles of Wordinow
 date: 2025-08-03
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
