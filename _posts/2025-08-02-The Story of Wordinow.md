@@ -1,5 +1,5 @@
 ---
-title: 1 The Story of Wordinow
+title: The Story of Wordinow
 date: 2025-08-02
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
