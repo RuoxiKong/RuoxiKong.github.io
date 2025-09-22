@@ -8,7 +8,6 @@ tags: [AI in Education, Personalized & Adaptive Learning, Learning Sciences, Edu
 author: <author_id>        
 description: A deep dive into the core principles that form the soul of Wordinow, guiding its mission to deliver a truly equitable, personalized, and responsible learning experience for every student.
 ---
-<div style="text-align: justify;">
 
 <p>My entire design process is deeply rooted in a set of core principles. These are not just abstract ideas; they are the fundamental guidelines that direct the development and iteration of every module.</p>
 
@@ -55,4 +54,4 @@ description: A deep dive into the core principles that form the soul of Wordinow
 <h4>4. Mediated AI Interaction & Digital Well-being</h4>
 <p>My approach to AI integration is framed by a keen awareness of its risks. Students, particularly non-experts, often 1) struggle to <strong style="color: #006400;">formulate clear questions</strong> for AI, and 2) lack the domain knowledge to <strong style="color: #006400;">critically evaluate its outputs</strong>. Furthermore, as their values are still developing, they are vulnerable to 3) manipulation by <strong style="color: #006400;">biased or "contaminated" LLMs</strong>, 4) the potential for unproductive, game-like <strong style="color: #006400;">addiction to AI interaction</strong>, and 5) the risk of developing an <strong style="color: #006400;">over-reliance that erodes their capacity for independent thought</strong>. Addressing these challenges requires a system of <strong style="color: #006400;">pedagogical governance</strong>. Wordinow is therefore designed to carefully manage student-AI interactions by restricting the types of questions they can ask and limiting the content AI can generate, ensuring that the AI’s output is always effective and instructionally sound, thereby cultivating critical thinking and sound values.</p>
 
-</div>
+
