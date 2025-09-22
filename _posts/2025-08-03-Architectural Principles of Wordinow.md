@@ -11,9 +11,9 @@ description: A deep dive into the core principles that form the soul of Wordinow
 
 <p>My entire design process is deeply rooted in a set of core principles. These are not just abstract ideas; they are the fundamental guidelines that direct the development and iteration of every module.</p>
 
-### What to Support: A Framework for Effective and Equitable Learning {#support-framework}
+<h3 id="support-framework">What to Support: A Framework for Effective and Equitable Learning</h3>
 
-#### 1. Educational Equity, Localization & Innovation {#equity-localization-innovation}
+<h4 id="equity-localization-innovation">1. Educational Equity, Localization & Innovation</h4>
 
 <p>This is the fundamental motivation for this project. I firmly believe that technology can bridge the significant educational resource gap between urban and rural areas in China. To truly bridge this gap, my approach treats equity as a core design principle, moving beyond simply providing access to ensuring the <strong style="color: #006400;">equitable design of instruction itself</strong>. This principle informs every decision, from the pedagogical content down to the underlying technical architecture.</p>
 
@@ -21,7 +21,7 @@ description: A deep dive into the core principles that form the soul of Wordinow
 
 <p>On the architectural level, it means addressing the very conditions of learning. For instance, considering students in remote areas may face poor internet connectivity, I specifically designed the architecture with Redis, Local Session Storage, and a CDN. This technical choice is, at its core, a <strong style="color: #006400;">pedagogical decision</strong>: to ensure a student’s geographical context does not dictate the quality of their interaction with the instructional content. It is also a critical design decision for the <strong style="color: #006400;">learning experience</strong>, ensuring that intermittent connectivity does not fracture the pedagogical flow, and a <strong style="color: #006400;">data integrity decision</strong>, ensuring that we can reliably capture learning interactions even in challenging network environments.</p>
 
-#### 2. Human-Centered, Adaptive & Personalized Design {#human-centered-adaptive}
+<h4 id="human-centered-adaptive">2. Human-Centered, Adaptive & Personalized Design</h4>
 
 <p>My design philosophy is that a student's actions and understanding should be the dominant engine driving their learning process to achieve <strong style="color: #006400;">precise personalization</strong> and foster <strong style="color: #006400;">intrinsic motivation</strong>. In Wordinow, the learning path is not predetermined; every click and every answer from the student dynamically shapes the subsequent content. This is not a passive system; it is an active listener. Every click, every answer, every moment of hesitation is captured as a data point that feeds the adaptive engine. By listening and responding, the system hands the "steering wheel" of learning back to the students, allowing them to become the true authors of their educational journey. This principle extends equally to educators. I am committed to simplifying complex technologies, providing teachers with <strong style="color: #006400;">interpretable data insights</strong> and flexible instructional design tools.</p>
 
@@ -29,15 +29,15 @@ description: A deep dive into the core principles that form the soul of Wordinow
 
 <p>At the same time, I embrace an <strong style="color: #006400;">evidence-based and critical spirit</strong>. We recognize that 'personalization' is not a panacea and that its effectiveness has boundary conditions. Therefore, the Wordinow platform is intentionally designed as a <strong style="color: #006400;">large-scale experimental testbed</strong>. We are committed to using rigorous A/B testing to continuously explore and validate under what contexts, and for which learners, personalized interventions provide the most significant value.</p>
 
-#### 3. Situated, Embodied & Gameful Learning {#situated-embodied-gameful}
+<h4 id="situated-embodied-gameful">3. Situated, Embodied & Gameful Learning</h4>
 <p>I believe the most profound knowledge is that which is discovered by the learners themselves. Therefore, I am committed to creating rich, interactive scenarios and PBL sessions that guide students to learn through exploration. For example, in the grammar module, I designed a series of interactive games like the "Magic Knife," which guides students to explore and discover the rules on their own while "playing." This is a direct application of <strong style="color: #006400;">Embodied Cognition</strong> theory, connecting an abstract concept to a virtual, physical action. They are not told the rules; they construct their own understanding of the knowledge through hands-on experience and induction, an experience designed to foster not just content knowledge but also <strong style="color: #006400;">metacognitive skills</strong>.</p>
 
 <p>Gamification is an effective tool for boosting motivation, but it must serve learning itself, not just be for entertainment. My gamification design aims to foster <strong style="color: #006400;">intrinsic motivation</strong> for learning by making necessary but sometimes tedious tasks (like vocabulary review) enjoyable. By embedding practice into well-designed game loops, it effectively enhances students' interest and persistence, reduces learning pressure, and makes the process more pleasant and efficient.</p>
 
-#### 4. Extrinsic Motivation Design & Feedback Loops {#extrinsic-motivation-feedback}
+<h4 id="extrinsic-motivation-feedback">4. Extrinsic Motivation Design & Feedback Loops</h4>
 <p>Wordinow’s extrinsic motivation design is intentionally multifaceted. Beyond fostering intrinsic motivation through gameful learning, the platform incorporates a robust system of <strong style="color: #006400;">extrinsic motivators</strong>. Features such as daily check-in streaks, progress-based rewards, <strong style="color: #006400;">leaderboards,</strong> and detailed performance analytics serve as tangible feedback mechanisms. <strong style="color: #006400;">The performance analytics report is a critical feature, providing visualizations of current and historical learning time, content mastery, and accuracy curves, along with data-driven pedagogical suggestions tailored to each student's learning patterns.</strong> These reports are provided to both students and their supervisors, creating a supportive <strong style="color: #006400;">feedback loop</strong> that acknowledges effort and makes progress visible, thereby sustaining persistence and engagement.</p>
 
-#### 5. AI as a Mediated Partner in Learning {#ai-mediated-partner}
+<h4 id="ai-mediated-partner">5. AI as a Mediated Partner in Learning</h4>
 <p>In an era where AI is reshaping education, its strengths in content summarization, data analysis, and idea generation are undeniable. My goal is to strategically leverage these strengths, ensuring that AI serves as a stable and efficient engine for content delivery and pedagogical guidance within the product. AI in Wordinow is positioned as a <strong style="color: #006400;">collaborative partner, not an oracle</strong>. Its primary role is to <strong style="color: #006400;">scaffold the learning process</strong> by serving as a tool for brainstorming, information synthesis, and <strong style="color: #006400;">Socratic-style inquiry</strong>. For example, when a student is struggling with a writing task, the AI is designed not to provide the answer, but to ask guiding questions that stimulate the student's own thinking, helping them to generate ideas and structure their arguments.</p>
 
 <h3>What to Control: A Framework for Responsible Innovation</h3>
