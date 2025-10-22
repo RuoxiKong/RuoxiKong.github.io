@@ -4,7 +4,20 @@ date: 2025-08-02
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
 categories: [Wordinow, Overview]
-tags: [AI in Education, Personalized & Adaptive Learning, Learning Sciences, Generative AI, Gamification, Localized Corpus Construction, EFL Education, Educational Equity, Personalized Learning, Adaptive Learning, Founder Story]
+tags: [AI in Education,
+  Generative AI,
+  Learning Sciences,
+  HCI in Education,
+  Personalized & Adaptive Learning,
+  Data-Driven Systems,
+  Teacher-Facing Analytics,
+  Learner-Centered Design,
+  Scaffolded Tools,
+  Cross-Context Learning,
+  Game- & Simulation-Based Learning,
+  Cognitive and Affective Design,
+  Educational Equity, 
+  Founder Story]
 author: <author_id>        
 description: The journey of building Wordinow, a personalized learning platform designed to bridge the educational divide and bring quality education to all.
 ---
