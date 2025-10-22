@@ -14,7 +14,7 @@ tags: [AI in Education,
   Learner-Centered Design,
   Scaffolded Tools,
   Cross-Context Learning,
-  Game- & Simulation-Based Learning,
+  Game & Simulation-Based Learning,
   Cognitive and Affective Design,
   Educational Equity, 
   Founder Story]
