@@ -25,7 +25,7 @@ description: The journey of building Wordinow, a personalized learning platform 
 </ol>
 
 <h3>🚀 The Vision: Architecting a New Educational Ecosystem</h3>
-<p>Driven by the conviction that a better system is possible in an era where AI is reshaping the foundations of education, I left investment banking to found Wordinow. My goal is not to build a single app, but to architect a learning ecosystem grounded in clear principles and <strong style="color:#006400;">implementation at scale</strong>. Below are four capabilities we already realize in the product.</p>
+<p>Driven by the conviction that a better system is possible in an era where AI is reshaping the foundations of education, I left investment banking to found Wordinow. My goal is not to build a single app, but to architect a learning ecosystem grounded in clear principles and <strong style="color:#006400;">implementation at scale</strong>. Below are four capabilities I already realized in the product.</p>
 
 <ol>
   <li>
@@ -45,8 +45,8 @@ description: The journey of building Wordinow, a personalized learning platform 
   </li>
 </ol>
 
-<h3>🔭 Where We Are Heading</h3>
-<p>These directions guide how we partner with schools and ensure responsible, equitable impact as we scale.</p>
+<h3>🔭 Now Heading</h3>
+<p>These directions ensure responsible and equitable impacts.</p>
 
 <ol>
   <li>
