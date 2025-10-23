@@ -1,22 +1,12 @@
 ---
-title: The Architecture of Key Module 1
-date: 2025-08-04
-categories: [TOP_CATEGORY, SUB_CATEGORY]
-tags: [TAG]     # TAG names should always be lowercase
-categories: [Wordinow, Key Module]
-tags: [Learning Engineering, Algorithm Design, Adaptive Learning, Corpus Linguistics, CAT, ZPD, Spaced Repetition, NLP, EdTech, Product Deep Dive]
-author: <author_id>        
-description: The Vocabulary, Reading, & Phrase Modules — An Algorithm-Driven Personalized Learning Loop
----
----
 title: Wordinow Methodology--From Vision to Working System
 date: 2025-08-03
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
 categories: [Wordinow, Design Philosophy]
-tags: [AI in Education, Personalized & Adaptive Learning, Learning Sciences, Educational Equity, Generative AI, Gamification, Localized Corpus Construction, Pedagogical Governance of AI]
+tags: [Learning Sciences, Methodology, Personalized Learning, Adaptive Systems, Teacher-Facing Analytics, Learning Analytics, HCI in Education, Evidence-Based Design, Gamification, Embodied Learning, AI in Education, Responsible AI, Cross-Context Learning, Equity]
 author: <author_id>
-description: A methods deep-dive: the concrete design, analytics, and AI choices that operationalize Wordinow’s four pillars into a working, scalable learning system.
+description: A deep-dive towords the methods of concrete design, analytics, and AI choices that operationalize Wordinow’s four pillars into a working, scalable learning system.
 ---
 <div markdown="1" style="text-align: justify;">
   
