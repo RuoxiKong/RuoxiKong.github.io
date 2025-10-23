@@ -5,7 +5,7 @@ categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
 categories: [Wordinow, Design Philosophy]
 tags: [AI in Education, Personalized & Adaptive Learning, Learning Sciences, Educational Equity, Generative AI, Gamification, Localized Corpus Construction, Pedagogical Governance of AI]
-author: <author_id>        
+author: <author_id>
 description: A methods deep-dive: the concrete design, analytics, and AI choices that operationalize Wordinow’s four pillars into a working, scalable learning system.
 ---
 <div markdown="1" style="text-align: justify;">
