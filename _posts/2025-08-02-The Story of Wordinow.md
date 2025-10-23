@@ -8,6 +8,7 @@ tags: [AI in Education, Learning Sciences, Personalized Learning, Adaptive Learn
 author: <author_id>        
 description: A founder’s story and blueprint: why I built Wordinow, the systemic problems I aim to solve, and the four pillars guiding a responsible, scalable learning ecosystem.
 ---
+
 <div style="text-align: justify;">
 
 <h3>🌱 Introduction: A Dual Perspective</h3>
