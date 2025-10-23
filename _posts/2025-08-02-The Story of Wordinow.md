@@ -4,9 +4,9 @@ date: 2025-08-02
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
 categories: [Wordinow, Overview]
-tags: [Founder Story]
+tags: [AI in Education, Learning Sciences, Personalized Learning, Adaptive Learning, Educational Equity, Teacher-Facing Analytics, Data-Driven Systems, Cognitive Science, Evidence-Based Design, Learning Analytics, HCI in Education, Gamification, Cross-Context Learning, Responsible AI, DBIR Partnerships, Founder Story]
 author: <author_id>        
-description:  A founder’s story and blueprint: why I built Wordinow, the systemic problems I aim to solve, and the four pillars guiding a responsible, scalable learning ecosystem.
+description:  A founder’s story and blueprint -- why I built Wordinow, the systemic problems I aim to solve, and the four pillars guiding a responsible, scalable learning ecosystem.
 ---
 
 <div style="text-align: justify;">
