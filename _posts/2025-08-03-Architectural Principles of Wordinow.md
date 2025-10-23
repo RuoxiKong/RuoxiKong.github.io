@@ -1,4 +1,14 @@
 ---
+title: The Architecture of Key Module 1
+date: 2025-08-04
+categories: [TOP_CATEGORY, SUB_CATEGORY]
+tags: [TAG]     # TAG names should always be lowercase
+categories: [Wordinow, Key Module]
+tags: [Learning Engineering, Algorithm Design, Adaptive Learning, Corpus Linguistics, CAT, ZPD, Spaced Repetition, NLP, EdTech, Product Deep Dive]
+author: <author_id>        
+description: The Vocabulary, Reading, & Phrase Modules — An Algorithm-Driven Personalized Learning Loop
+---
+---
 title: Wordinow Methodology--From Vision to Working System
 date: 2025-08-03
 categories: [TOP_CATEGORY, SUB_CATEGORY]
