@@ -10,6 +10,7 @@ description: A deep-dive towords the methods of concrete design, analytics, and 
 ---
 <div markdown="1" style="text-align: justify;">
 
+
 <h3>Introduction</h3>
 <p>
 My entire design process is deeply rooted in a set of <strong style="color:#006400;">core principles</strong>. These are not just abstract ideas; they are the fundamental guidelines that direct the development and iteration of every module. In my previous article, I shared the story behind Wordinow and laid out my <strong style="color:#006400;">four-pillared vision</strong>. This article moves from the “why” to the “how,” breaking down the methodology behind each of those pillars.
@@ -97,8 +98,6 @@ The two modes interlock as a <strong style="color:#006400;">continuous feedback 
 <p>
 I believe in a <strong style="color:#006400;">Responsible Revolution</strong>: not replacing schools, but providing effective <strong style="color:#006400;">technology support</strong> and collaborating for pedagogical improvement, protecting students and empowering teachers as we innovate.
 </p>
-
-</div>
 
 </div>
 
