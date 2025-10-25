@@ -1,7 +1,16 @@
-<h2>Module Map of Wordinow</h2>
+---
+title: Module Map of Wordinow
+date: 2025-08-04
+categories: [TOP_CATEGORY, SUB_CATEGORY]
+tags: [TAG]     # TAG names should always be lowercase
+categories: [Wordinow, Pedagogy]
+tags: [AI in Education, Learning Sciences,]
+author: <author_id>        
+description:  A high-level yet practical map of what each module teaches, how it teaches, what supports are embedded, and what evidence it generates.
+---
 
-<p><em>A high-level yet practical map of what each module teaches, how it teaches, what supports are embedded, and what evidence it generates.</em></p>
-
+<div style="text-align: justify;">
+  
 <h3>1) Vocabulary &amp; Reading</h3>
 
 <h4>Learning goals</h4>
@@ -124,4 +133,4 @@
   <li><strong style="color:#006400;">Responsible AI mediation</strong>: constrained prompts, age/genre alignment, transparency.</li>
   <li><strong style="color:#006400;">Accessibility &amp; inclusion</strong>: text-to-speech, dyslexia-friendly layouts, chunked tasks.</li>
 </ul>
-
+</div>
