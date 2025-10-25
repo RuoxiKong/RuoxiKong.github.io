@@ -8,7 +8,7 @@ tags: [AI in Education, Learning Sciences,]
 author: <author_id>        
 description:  A concise playbook for planning, running, and assessing lessons with real-time data support.
 ---
-
+<div style="text-align: justify;">
 <h3>1) Learning Session Models</h3>
 
 <h4>Session-Based Learning</h4>
