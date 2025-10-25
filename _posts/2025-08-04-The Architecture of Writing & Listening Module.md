@@ -1,9 +1,9 @@
 ---
-title: The Architecture of Key Module 3
+title: The Architecture of Writing & Listening Module
 date: 2025-08-04
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
-categories: [Wordinow, Key Module]
+categories: [Wordinow, Pedagogy]
 tags: [Scaffolding, Critical Thinking, Corpus Linguistics, Writing Instruction, Integrated Input, Listening Comprehension, Cross-Cultural Communication, EdTech, Product Deep Dive]
 author: <author_id>        
 description: The Writing & Listening Modules — Cultivating Critical Thinking & Cross-Cultural Communication
