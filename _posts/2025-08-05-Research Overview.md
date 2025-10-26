@@ -10,7 +10,7 @@ description: Menu!
 ---
 <div style="text-align: justify;">
 
-<p>This series presents Wordinow’s ongoing and planned studies. Each project combines <strong style="color:#006400;">theory-grounded design</strong> with <strong style="color:#006400;">pragmatic evaluation</strong> in real learning contexts.</p>
+<p>This series presents Wordinow’s ongoing and completed studies. Each project combines <strong style="color:#006400;">theory-grounded design</strong> with <strong style="color:#006400;">pragmatic evaluation</strong> in real learning contexts.</p>
 
 <ol>
   <li><a href="#study1">Study 1 — Adaptive Vocabulary & Reading Personalization</a>: Effects of <strong style="color:#006400;">CAT</strong>, <strong style="color:#006400;">SRS</strong>, and <strong style="color:#006400;">prompted comprehension</strong> on EFL outcomes.</li>
