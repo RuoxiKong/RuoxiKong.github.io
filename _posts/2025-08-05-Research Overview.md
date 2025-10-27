@@ -10,7 +10,7 @@ description: Menu!
 ---
 <div style="text-align: justify;">
 
-<p>This series presents Wordinow’s ongoing and completed studies. Each project combines <strong style="color:#006400;">theory-grounded design</strong> with <strong style="color:#006400;">pragmatic evaluation</strong> in real learning contexts.</p>
+<p>This series presents Wordinow’s completed studies. Each project combines <strong style="color:#006400;">theory-grounded design</strong> with <strong style="color:#006400;">pragmatic evaluation</strong> in real learning contexts.</p>
 
 <ol>
   <li><a href="#study1">Study 1 — Teacher-Facing Analytics & Actions</a>: Uptake, orchestration moves, and student learning.</li>
