@@ -11,7 +11,7 @@ description: Uptake, perceived value, alert–move alignment, workload trade-off
 <div style="text-align: justify;">
 
 <h3>Introduction</h3>
-<p>This research is conducted for the question that, in a teacher-led adaptive K12 EFL learning platform, can an <strong style="color:#006400;">AI-supported learning analysis and alert system</strong> be both <strong style="color:#006400;">acceptable</strong> to teachers and <strong style="color:#006400;">instructionally effective</strong> in lessons.</p>
+<p>This study is conducted to explore: in a teacher-led adaptive K12 EFL learning platform, can an <strong style="color:#006400;">AI-supported learning analysis and alert system</strong> be both <strong style="color:#006400;">acceptable</strong> to teachers and <strong style="color:#006400;">instructionally effective</strong> in lessons.</p>
 
 <h3>Research Questions</h3>
 <p><strong style="color:#006400;">RQ1 Teacher willingness and real usage.</strong> After onboarding, how often and how persistently do teachers use the <strong style="color:#006400;">analytics panel</strong>, <strong style="color:#006400;">action cards</strong>, and <strong style="color:#006400;">priority watchlists</strong> in authentic lessons</p>
