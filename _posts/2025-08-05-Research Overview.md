@@ -1,5 +1,5 @@
 ---
-title: Research 1
+title: Research Overview
 date: 2025-08-05
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
