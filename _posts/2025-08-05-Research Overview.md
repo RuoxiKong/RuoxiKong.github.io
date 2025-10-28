@@ -1,5 +1,9 @@
 ---
 title: Research Overview
+published: false
+---
+
+title: Research Overview
 date: 2025-08-05
 categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
@@ -7,7 +11,7 @@ categories: [Wordinow, Research]
 tags: [Research]
 author: <author_id>        
 description: Menu!
----
+
 <div style="text-align: justify;">
 
 <p>This series presents Wordinow’s completed studies. Each project combines <strong style="color:#006400;">theory-grounded design</strong> with <strong style="color:#006400;">pragmatic evaluation</strong> in real learning contexts.</p>
