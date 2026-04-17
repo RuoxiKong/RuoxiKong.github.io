@@ -26,8 +26,8 @@ Here, I share my projects, notes, and some personal values. I hope you find my c
 
 ## 🎓 Education
 
-- **M.Sc. in Finance** — Imperial College London
-- **B.S.B.A. in Finance** — University of Miami
+- **M.Sc. in Finance** — Imperial College London · *2021*
+- **B.S.B.A. in Finance** — University of Miami · *2020*
 
 ---
 
