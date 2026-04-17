@@ -8,7 +8,7 @@ order: 4
 
 Hello! I'm **Ruoxi Kong**.
 
-Welcome to my personal space. I am an **investment-banking associate** and an **independent EdTech developer** — driven by a passion for **educational equity and the effectiveness of online learning**, and by curiosity about **corporate finance, corporate governance, ESG, and corporate information disclosure**.
+Welcome to my personal space. I am an **investment-banking associate** and an **independent EdTech developer**.
 
 Here, I share my projects, notes, and some personal values. I hope you find my content helpful and I look forward to connecting with like-minded people!
 
