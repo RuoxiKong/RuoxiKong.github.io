@@ -8,9 +8,9 @@ order: 4
 
 Hello! I'm **Ruoxi Kong**.
 
-I'm a finance professional by day and an independent EdTech developer by night, currently preparing to pursue a PhD. My interests sit at the intersection of **corporate finance, corporate governance, ESG, and corporate information disclosure**.
+Welcome to my personal space. I'm a finance professional by day and an independent EdTech developer by night, currently preparing to pursue a PhD — driven by a passion for **educational equity and the effectiveness of online learning**, and by curiosity about **corporate finance, corporate governance, ESG, and corporate information disclosure**.
 
-This page collects my projects, notes, and the values behind them. If you're working on similar questions, I'd love to connect.
+Here, I share my projects, notes, and some personal values. I hope you find my content helpful and I look forward to connecting with like-minded people!
 
 - **Email:** `ruoxi.kong20@alumni.imperial.ac.uk`
 - **Based in:** Shenzhen, China
@@ -37,6 +37,8 @@ An adaptive learning platform for English learners that I design and build on my
 
 ---
 
-## 🧭 Off-duty
+## 🔧 More
 
-Golden retriever · cats · Minecraft · rugby · Sudoku · Minesweeper · woodworking · puzzles · Lego · travel.
+- **Programming Languages:** Python, JavaScript, Java, C++, SQL, R
+- **Languages:** English, Chinese
+- **Top Ten List:** Golden Retriever, Huge Cats, Minecraft, Rugby, Sudoku, Minesweeper, Woodworking, Puzzles, Lego, Travel
