@@ -8,20 +8,12 @@ order: 4
 
 Hello! I'm **Ruoxi Kong**.
 
-I am an investment-banking associate, independent EdTech developer, and prospective PhD candidate. My curiosity sits at the intersection of **corporate finance, corporate governance, ESG, and corporate information disclosure** — questions I stumble into every day while drafting prospectuses, responding to exchange inquiry letters, and advising listed firms on what to disclose and when.
+I am an investment-banking associate, independent EdTech developer, and prospective PhD candidate. My curiosity sits at the intersection of **corporate finance, corporate governance, ESG, and corporate information disclosure**.
 
 This page collects my projects, research notes, and the values behind them. I'd love to connect with anyone working on similar questions.
 
 - **Email:** `ruoxi.kong20@alumni.imperial.ac.uk`
 - **Based in:** Shenzhen, China
-
----
-
-## 🔬 Research Interests
-
-**Corporate finance · Corporate governance · ESG and enterprise sustainability · Corporate information disclosure**
-
-Three years of continuous-supervision and disclosure-review work have sharpened a specific set of puzzles for me: *How do disclosure choices shape investor beliefs and firm behavior? When do governance and sustainability stop being decoupled signals? What can the micro-structure of inquiry-letter responses tell us about regulatory learning?* I plan to pursue these questions through PhD research.
 
 ---
 
