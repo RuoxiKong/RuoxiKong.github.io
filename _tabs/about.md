@@ -20,7 +20,7 @@ Here, I share my projects, notes, and some personal values. I hope you find my c
 ## 💼 A Bit About My Background
 
 - Several years in **investment banking** in China — IPOs, SEOs, M&A, and continuous supervision of listed companies.
-- Long-running side work as an independent **teacher and tutor** for international-exam students.
+- Designed and built **Wordinow**, an adaptive learning platform for English learners — a self-hosted cloud stack with a CEFR/COCA-aligned corpus, LLM-generated content, and IRT/CAT-based ability estimation over real learner data.
 
 ---
 
@@ -28,12 +28,6 @@ Here, I share my projects, notes, and some personal values. I hope you find my c
 
 - **M.Sc. in Finance** — Imperial College London · *2021*
 - **B.S.B.A. in Finance** — University of Miami · *2020*
-
----
-
-## 💻 Current Project — Wordinow
-
-An adaptive learning platform for English learners that I design and build on my own. It runs on a self-hosted cloud stack with a CEFR/COCA-aligned corpus, LLM-generated content, and IRT/CAT-based ability estimation over real learner data.
 
 ---
 
