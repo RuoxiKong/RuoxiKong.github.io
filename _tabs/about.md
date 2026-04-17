@@ -8,7 +8,7 @@ order: 4
 
 Hello! I'm **Ruoxi Kong**.
 
-Welcome to my personal space. I'm a finance professional by day and an independent EdTech developer by night, currently preparing to pursue a PhD — driven by a passion for **educational equity and the effectiveness of online learning**, and by curiosity about **corporate finance, corporate governance, ESG, and corporate information disclosure**.
+Welcome to my personal space. I'm a finance professional by day and an independent EdTech developer by night — driven by a passion for **educational equity and the effectiveness of online learning**, and by curiosity about **corporate finance, corporate governance, ESG, and corporate information disclosure**.
 
 Here, I share my projects, notes, and some personal values. I hope you find my content helpful and I look forward to connecting with like-minded people!
 
