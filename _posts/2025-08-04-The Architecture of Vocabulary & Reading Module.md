@@ -8,7 +8,7 @@ description: The Vocabulary, Reading, and Phrase Modules — an algorithm-driven
 ---
 <div style="text-align: justify;">
 
-<p>The Vocabulary, Reading, and Phrase modules I designed are central to the platform, with their innovative design deeply integrating advanced academic theories such as <strong>Corpus Linguistics, Computerized Adaptive Testing (CAT), Zone of Proximal Development (ZPD) Theory, Situated Learning Theory, Formative Assessment,</strong> and the <strong>Ebbinghaus Forgetting Curve</strong>, providing robust theoretical and technical support for precise personalized learning.</p>
+<p>The Vocabulary, Reading, and Phrase modules I designed are central to the platform. Their design draws on established work in <strong>Corpus Linguistics, Computerized Adaptive Testing (CAT), the Zone of Proximal Development (ZPD), Situated Learning, Formative Assessment,</strong> and the <strong>Ebbinghaus Forgetting Curve</strong>, and uses these to structure a personalized learning loop.</p>
 
 <p align="center">
   <img src="{{ '/assets/module1.jpg' | relative_url }}" alt="Key Module 1" width="900">
@@ -17,13 +17,13 @@ description: The Vocabulary, Reading, and Phrase Modules — an algorithm-driven
 <p align="center"><em>Key Module 1</em></p>
 
 <h4>1. Localized Lexicon Construction: The First Step Towards Educational Equity</h4>
-<p>I led and completed the construction of a specialized corpus and vocabulary leveling system specifically for Chinese English as a Foreign Language (EFL) learners. This corpus integrates vocabulary from over 50 versions of K12 English textbooks across China, high-frequency words from national college entrance exams, general reference corpora (BNC, COCA), and the CEFR framework. Building on this, I designed and developed a proprietary weighted-leveling algorithm that generates a vocabulary grading system highly matched to Chinese learners' cognitive pathways and examination requirements. The core objective of this initiative is to address the disparity between diverse local curricula across China and the unified national college entrance examination, ensuring that all students begin from an equitable starting point, with fair access to vocabulary resources highly aligned with core exam demands. This represents not only technological innovation but also a practical commitment to educational equity.</p>
+<p>I led and completed the construction of a specialized corpus and vocabulary leveling system specifically for Chinese English as a Foreign Language (EFL) learners. This corpus integrates vocabulary from over 50 versions of K12 English textbooks across China, high-frequency words from national college entrance exams, general reference corpora (BNC, COCA), and the CEFR framework. Building on this, I developed a custom weighted-leveling algorithm that produces a vocabulary grading system aligned with Chinese learners' curricula and examination requirements. The goal is to address the disparity between diverse local curricula across China and the unified national college entrance examination, so that students begin from a more equitable starting point, with access to vocabulary resources that match core exam demands. The motivation is as much a commitment to educational equity as it is a technical one.</p>
 
 <p>From a data-driven perspective, this foundational work is a non-negotiable prerequisite. Without a high-quality, culturally-contextualized dataset, any subsequent "adaptive" algorithm would be operating on flawed assumptions—garbage in, garbage out. From a user experience perspective, this ensures that the very first interaction a student has with the recommended content feels relevant and respectful of their learning context, building crucial initial trust and motivation.</p>
 
 
 <h4>2. The Four-Step Adaptive Learning Loop: Precisely Matching the ZPD</h4>
-<p>I designed the core learning experience not as a simple path, but as a dynamic, four-step loop, driven by my proprietary algorithms.</p>
+<p>I designed the core learning experience not as a simple path, but as a dynamic four-step loop, driven by custom algorithms.</p>
 
 <p><strong>a. Dynamic Assessment:</strong><br>
 My first algorithm is built on the core principle of Computerized Adaptive Testing (CAT). It is capable of dynamically adjusting the difficulty of subsequent vocabulary items based on the learner's real-time response. This allows it to efficiently and accurately assess their current vocabulary size, rapidly pinpointing a student's true proficiency while avoiding redundant testing.</p>

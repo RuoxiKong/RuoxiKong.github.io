@@ -87,9 +87,9 @@ description: A deep dive into the concrete design, analytics, and AI choices tha
   <li><strong style="color:#006400;">From Home to School</strong>: Over the weekend, students practice vocabulary in Student-Directed Mode. On Monday, the teacher reviews the Analytics Portal and sees that many struggled with specific academic words, so instruction begins with a targeted review. This creates a <strong style="color:#006400;">continuous feedback loop</strong> for a connected learning experience.</li>
 </ul>
 
-<h3 id="responsible-revolution">3. Responsible Revolution</h3>
+<h3 id="responsible-deployment">3. Responsible Deployment</h3>
 
-<p>I believe in a <strong style="color:#006400;">Responsible Revolution</strong>. The strategy is not to replace schools but to provide effective technology support when needed. Schools have an irreplaceable social function. My goal is to offer good products and collaborate on innovation to advance pedagogy, progressing gently while protecting students and empowering teachers.</p>
+<p>I believe in <strong style="color:#006400;">responsible deployment</strong>. The strategy is not to replace schools but to provide effective technology support where it is needed. Schools have an irreplaceable social function. My goal is to ship good products and collaborate on innovation that advances pedagogy — progressing gradually, while protecting students and supporting teachers.</p>
 
 </div>
 
