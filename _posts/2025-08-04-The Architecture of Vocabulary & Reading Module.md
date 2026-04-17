@@ -1,12 +1,10 @@
 ---
-title: The Architecture of Vocabulary & Reading Module
+title: The Architecture of the Vocabulary & Reading Module
 date: 2025-08-04
-categories: [TOP_CATEGORY, SUB_CATEGORY]
-tags: [TAG]     # TAG names should always be lowercase
 categories: [Wordinow, Pedagogy]
 tags: [Learning Engineering, Algorithm Design, Adaptive Learning, Corpus Linguistics, CAT, ZPD, Spaced Repetition, NLP, EdTech, Product Deep Dive]
-author: <author_id>        
-description: The Vocabulary, Reading, & Phrase Modules — An Algorithm-Driven Personalized Learning Loop
+author: ruoxikong
+description: The Vocabulary, Reading, and Phrase Modules — an algorithm-driven personalized learning loop.
 ---
 <div style="text-align: justify;">
 

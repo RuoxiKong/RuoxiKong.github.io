@@ -1,12 +1,10 @@
 ---
-title: Wordinow Methodology--From Vision to System
+title: Wordinow Methodology — From Vision to System
 date: 2025-08-03
-categories: [TOP_CATEGORY, SUB_CATEGORY]
-tags: [TAG]     # TAG names should always be lowercase
 categories: [Wordinow, Design Philosophy]
 tags: [Learning Sciences, Methodology, Personalized Learning, Adaptive Systems, Teacher-Facing Analytics, Learning Analytics, HCI in Education, Evidence-Based Design, Gamification, Embodied Learning, AI in Education, Responsible AI, Cross-Context Learning, Equity]
-author: <author_id>
-description: A deep-dive towords the methods of concrete design, analytics, and AI choices that operationalize Wordinow’s four pillars into a working, scalable learning system.
+author: ruoxikong
+description: A deep dive into the concrete design, analytics, and AI choices that operationalize Wordinow's four pillars into a working, scalable learning system.
 ---
 <div markdown="1" style="text-align: justify;">
 

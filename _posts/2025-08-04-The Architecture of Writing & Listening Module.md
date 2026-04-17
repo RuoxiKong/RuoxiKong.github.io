@@ -1,12 +1,10 @@
 ---
-title: The Architecture of Writing & Listening Module
+title: The Architecture of the Writing & Listening Module
 date: 2025-08-04
-categories: [TOP_CATEGORY, SUB_CATEGORY]
-tags: [TAG]     # TAG names should always be lowercase
 categories: [Wordinow, Pedagogy]
 tags: [Scaffolding, Critical Thinking, Corpus Linguistics, Writing Instruction, Integrated Input, Listening Comprehension, Cross-Cultural Communication, EdTech, Product Deep Dive]
-author: <author_id>        
-description: The Writing & Listening Modules — Cultivating Critical Thinking & Cross-Cultural Communication
+author: ruoxikong
+description: The Writing and Listening Modules — cultivating critical thinking and cross-cultural communication.
 ---
 <div style="text-align: justify;">
 

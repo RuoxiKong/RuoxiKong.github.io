@@ -1,16 +1,11 @@
 ---
-title: Study 1--AI-Supported Learning Analysis for Teachers
-published: false
----
-
-title: Study 1--AI-Supported Learning Analysis for Teachers
+title: "Study 1 — AI-Supported Learning Analysis for Teachers"
 date: 2025-08-05
-categories: [TOP_CATEGORY, SUB_CATEGORY]
-tags: [TAG]     # TAG names should always be lowercase
 categories: [Wordinow, Research]
-tags: [Research]
-author: <author_id>        
-description: Uptake, perceived value, alert–move alignment, workload trade-offs, fairness effects, and learning outcomes in Grade 5 English classes in Chinese public schools
+tags: [Research, Teacher-Facing Analytics, Learning Analytics, AI in Education, EFL, Quasi-Experiment]
+author: ruoxikong
+description: Uptake, perceived value, alert–move alignment, workload trade-offs, fairness effects, and learning outcomes in Grade 5 English classes in Chinese public schools.
+---
 
 <div style="text-align: justify;">
 

@@ -1,12 +1,10 @@
 ---
 title: Students' Guide
 date: 2025-08-04
-categories: [TOP_CATEGORY, SUB_CATEGORY]
-tags: [TAG]     # TAG names should always be lowercase
 categories: [Wordinow, Pedagogy]
-tags: [AI in Education, Learning Sciences]
-author: <author_id>        
-description:  A simple routine that turns small daily steps into visible progress.
+tags: [AI in Education, Learning Sciences, Guide]
+author: ruoxikong
+description: A simple routine that turns small daily steps into visible progress.
 ---
 <div style="text-align: justify;">
 

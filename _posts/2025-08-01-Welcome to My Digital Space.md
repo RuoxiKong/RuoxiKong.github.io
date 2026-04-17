@@ -1,12 +1,10 @@
 ---
 title: Welcome to My Digital Space
 date: 2025-08-01
-categories: [TOP_CATEGORY, SUB_CATEGORY]
-tags: [TAG]     # TAG names should always be lowercase
 categories: [Quick Start, Overview]
 tags: [Quick Start, Meta]
-author: <author_id>        
-description: Start from here!
+author: ruoxikong
+description: A short guide to what you'll find on this site — the Wordinow project, design notes, and research write-ups.
 ---
 <div style="text-align: justify;">
 <h3><strong>Welcome to My Digital Space!</strong></h3>

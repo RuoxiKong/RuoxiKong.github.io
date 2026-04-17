@@ -1,12 +1,10 @@
 ---
 title: Module Map of Wordinow
 date: 2025-08-04
-categories: [TOP_CATEGORY, SUB_CATEGORY]
-tags: [TAG]     # TAG names should always be lowercase
 categories: [Wordinow, Pedagogy]
-tags: [AI in Education, Learning Sciences]
-author: <author_id>        
-description:  A high-level yet practical map of what each module teaches, how it teaches, what supports are embedded, and what evidence it generates.
+tags: [AI in Education, Learning Sciences, Product Deep Dive]
+author: ruoxikong
+description: A high-level yet practical map of what each module teaches, how it teaches, what supports are embedded, and what evidence it generates.
 ---
 
 <div style="text-align: justify;">

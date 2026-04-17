@@ -1,12 +1,10 @@
 ---
 title: Teachers' Guide
 date: 2025-08-04
-categories: [TOP_CATEGORY, SUB_CATEGORY]
-tags: [TAG]     # TAG names should always be lowercase
 categories: [Wordinow, Pedagogy]
-tags: [AI in Education, Learning Sciences]
-author: <author_id>        
-description:  A concise playbook for planning, running, and assessing lessons with real-time data support.
+tags: [AI in Education, Learning Sciences, Guide]
+author: ruoxikong
+description: A concise playbook for planning, running, and assessing lessons with real-time data support.
 ---
 <div style="text-align: justify;">
 <h3>1) Learning Session Models</h3>
