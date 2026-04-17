@@ -20,7 +20,10 @@ Here, I share my projects, notes, and some personal values. I hope you find my c
 ## 💼 A Bit About My Background
 
 - Several years in **investment banking** in China — IPOs, SEOs, M&A, and continuous supervision of listed companies.
-- Designed and built **Wordinow**, an adaptive learning platform for English learners — a self-hosted cloud stack with a CEFR/COCA-aligned corpus, LLM-generated content, and IRT/CAT-based ability estimation over real learner data.
+- Designed, coded, and shipped **Wordinow** — an adaptive learning platform for English learners — as the sole developer, end-to-end across backend, data pipeline, NLP, and the client-facing UI.
+  - **Backend & infrastructure:** Python with **SQLAlchemy**, **MySQL**, **Redis** caching, and **Celery** async pipelines, deployed on a self-hosted cloud stack.
+  - **Data & NLP:** built a CEFR/COCA-aligned lexical corpus in Python; cleaned, de-duplicated, and tagged the text data; fine-tuned LLMs for content generation through a multi-provider orchestration layer with difficulty-pool routing.
+  - **Psychometrics & analytics:** implemented **IRT** and **CAT** for real-time learner-ability estimation; built statistical models over learner data for user-behavior and trajectory analytics.
 
 ---
 
