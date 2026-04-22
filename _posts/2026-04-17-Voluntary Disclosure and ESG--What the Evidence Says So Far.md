@@ -1,5 +1,6 @@
 ---
 title: "Voluntary Disclosure and ESG — What the Evidence Says So Far"
+published: false
 date: 2026-04-17
 categories: [Accounting, Reading Notes]
 tags: [Voluntary Disclosure, ESG, Information Disclosure, Corporate Governance, Empirical Accounting, Capital Markets, Reading Notes]
